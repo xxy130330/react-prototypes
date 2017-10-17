@@ -9,6 +9,6 @@
 
 ### Bundle For Deployment
 
-> - This repo is not intended for any kind of deployment and is not properly configured for deployment
+> - This repo is not intended for any kind of deployment and is not properly configured for production use
 > - This repo is for learning purposes only
 >
